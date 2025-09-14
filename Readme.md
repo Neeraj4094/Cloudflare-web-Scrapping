@@ -1,2 +1,3 @@
-pip install seleniumbase
-py main.py
+RUn Project :-
+- pip install seleniumbase
+- py main.py
